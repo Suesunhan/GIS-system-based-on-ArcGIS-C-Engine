@@ -1,0 +1,30 @@
+E:\3DMaper\3DMaper\bin\Debug\3DMaper.exe
+E:\3DMaper\3DMaper\bin\Debug\3DMaper.pdb
+E:\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Form1.resources
+E:\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Properties.Resources.resources
+E:\3DMaper\3DMaper\obj\x86\Debug\3DMaper.csproj.GenerateResource.Cache
+E:\3DMaper\3DMaper\obj\x86\Debug\3DMaper.exe
+E:\3DMaper\3DMaper\obj\x86\Debug\3DMaper.pdb
+E:\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Select.resources
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.exe
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.pdb
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\bin\Debug\3DMaper.exe
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\bin\Debug\3DMaper.pdb
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Form1.resources
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Properties.Resources.resources
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Select.resources
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.exe
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.pdb
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\bin\Debug\3DMaper.exe
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\bin\Debug\3DMaper.pdb
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Form1.resources
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Properties.Resources.resources
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\_3DMaper.Select.resources
+C:\Users\hp\Desktop\三维\3DMaper\3DMaper\obj\x86\Debug\3DMaper.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\code\3DMaper\3DMaper\obj\x86\Debug\3DMaper.exe
+C:\Users\hp\Desktop\GIS实习\孙菡_2015301610270\校园地理信息系统源代码\三维\code\3DMaper\3DMaper\obj\x86\Debug\3DMaper.pdb
+C:\Users\hp\Desktop\GIS实习\2015301610270 孙菡\校园地理信息系统源代码\三维\code\3DMaper\3DMaper\obj\x86\Debug\3DMaper.exe
+C:\Users\hp\Desktop\GIS实习\2015301610270 孙菡\校园地理信息系统源代码\三维\code\3DMaper\3DMaper\obj\x86\Debug\3DMaper.pdb
