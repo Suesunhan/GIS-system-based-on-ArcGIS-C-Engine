@@ -1,4 +1,4 @@
-# GIS-system-based-on-ArcGIS-C-Engine
+# GIS-system-based-on-ArcGIS-Engine
 GIS system based on ArcGIS C# Engine
 
 2D part has the basi functions of ArcGIS including switch layer, manipulate layer, etc. and shortest path query.
